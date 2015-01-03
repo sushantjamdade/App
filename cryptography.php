@@ -1,5 +1,5 @@
 <?php
-
+$test = "Dotweb Git";
 Class Cryptography
 {
 	function Encrypt($source, $destination)	{

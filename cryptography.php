@@ -1,6 +1,5 @@
 <?php
 $test = "Dotweb Git";
-$test1 = "Imago Technologies";
 Class Cryptography
 {
 	function Encrypt($source, $destination)	{
